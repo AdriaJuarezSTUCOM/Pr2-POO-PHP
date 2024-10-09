@@ -1,1 +1,1 @@
-# Pr2-POO-PHP
+Activitat Adrià Juárez Bauzà
